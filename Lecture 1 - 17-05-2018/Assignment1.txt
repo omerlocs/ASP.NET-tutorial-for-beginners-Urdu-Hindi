@@ -1,0 +1,17 @@
+A Software System with Console Interface
+=========================================
+	Menu Point of Sale
+=========================================
+1-New Customer Record
+2-Change Customer Record
+3-Delete Customer Record
+4-Search Customer Record
+5-Exit Software POS
+==========================================
+Enter your choice?1
+==========================================
+Enter the Customer Code.
+Enter the Customer Name.
+Enter the Customer ContactNo.
+Enter the Customer Address.
+Enter the Customer CNIC.

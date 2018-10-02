@@ -1,0 +1,6 @@
+c:\users\asif\documents\visual studio 2013\Projects\Library.CUI\Library.CUI\bin\Debug\Library.CUI.exe.config
+c:\users\asif\documents\visual studio 2013\Projects\Library.CUI\Library.CUI\bin\Debug\Library.CUI.exe
+c:\users\asif\documents\visual studio 2013\Projects\Library.CUI\Library.CUI\bin\Debug\Library.CUI.pdb
+c:\users\asif\documents\visual studio 2013\Projects\Library.CUI\Library.CUI\obj\Debug\Library.CUI.csprojResolveAssemblyReference.cache
+c:\users\asif\documents\visual studio 2013\Projects\Library.CUI\Library.CUI\obj\Debug\Library.CUI.exe
+c:\users\asif\documents\visual studio 2013\Projects\Library.CUI\Library.CUI\obj\Debug\Library.CUI.pdb
