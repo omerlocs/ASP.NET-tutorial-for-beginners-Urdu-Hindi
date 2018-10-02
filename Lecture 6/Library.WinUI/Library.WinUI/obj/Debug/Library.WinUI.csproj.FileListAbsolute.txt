@@ -1,0 +1,12 @@
+c:\users\asif\documents\visual studio 2013\Projects\Library.WinUI\Library.WinUI\bin\Debug\Library.WinUI.exe.config
+c:\users\asif\documents\visual studio 2013\Projects\Library.WinUI\Library.WinUI\bin\Debug\Library.WinUI.exe
+c:\users\asif\documents\visual studio 2013\Projects\Library.WinUI\Library.WinUI\bin\Debug\Library.WinUI.pdb
+c:\users\asif\documents\visual studio 2013\Projects\Library.WinUI\Library.WinUI\obj\Debug\Library.WinUI.csprojResolveAssemblyReference.cache
+c:\users\asif\documents\visual studio 2013\Projects\Library.WinUI\Library.WinUI\obj\Debug\Library.WinUI.Properties.Resources.resources
+c:\users\asif\documents\visual studio 2013\Projects\Library.WinUI\Library.WinUI\obj\Debug\Library.WinUI.csproj.GenerateResource.Cache
+c:\users\asif\documents\visual studio 2013\Projects\Library.WinUI\Library.WinUI\obj\Debug\Library.WinUI.exe
+c:\users\asif\documents\visual studio 2013\Projects\Library.WinUI\Library.WinUI\obj\Debug\Library.WinUI.pdb
+c:\users\asif\documents\visual studio 2013\Projects\Library.WinUI\Library.WinUI\obj\Debug\Library.WinUI.frmMainScreen.resources
+c:\users\asif\documents\visual studio 2013\Projects\Library.WinUI\Library.WinUI\obj\Debug\Library.WinUI.frmLogin.resources
+c:\users\asif\documents\visual studio 2013\Projects\Library.WinUI\Library.WinUI\obj\Debug\Library.WinUI.frmManageBooks.resources
+C:\Users\Asif\documents\visual studio 2013\Projects\Library.WinUI\Library.WinUI\obj\Debug\Library.WinUI.frmSearchBooks.resources
