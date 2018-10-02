@@ -1,0 +1,36 @@
+ADO.NET
+Active X Data Object .NET
+=========================
+Database Management System
+SQL Server
+Oracle
+Access
+MySQL
+any ODBC Supported DBMS
+Excel
+=========================
+Two Parts
+1-Data Providers
+================
+Connection
+Command
+Data Adapter
+Table Adapter
+Data Reader
+Transaction
+CommandBuilder
+================
+2-Data Set
+================
+Data Table
+	Data Row
+	Data Column
+Data Relation
+	Relational Keys
+
+Char (6)
+
+Tea___
+VarChar(6)
+Tea
+nvarchar(6)

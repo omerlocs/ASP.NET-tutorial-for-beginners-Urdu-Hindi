@@ -1,0 +1,6 @@
+c:\users\asif\documents\visual studio 2013\Projects\LMS.CUI\LMS.CUI\bin\Debug\LMS.CUI.exe.config
+c:\users\asif\documents\visual studio 2013\Projects\LMS.CUI\LMS.CUI\bin\Debug\LMS.CUI.exe
+c:\users\asif\documents\visual studio 2013\Projects\LMS.CUI\LMS.CUI\bin\Debug\LMS.CUI.pdb
+c:\users\asif\documents\visual studio 2013\Projects\LMS.CUI\LMS.CUI\obj\Debug\LMS.CUI.csprojResolveAssemblyReference.cache
+c:\users\asif\documents\visual studio 2013\Projects\LMS.CUI\LMS.CUI\obj\Debug\LMS.CUI.exe
+c:\users\asif\documents\visual studio 2013\Projects\LMS.CUI\LMS.CUI\obj\Debug\LMS.CUI.pdb
