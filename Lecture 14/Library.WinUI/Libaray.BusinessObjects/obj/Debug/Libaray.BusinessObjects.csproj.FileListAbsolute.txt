@@ -1,0 +1,4 @@
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\Library.WinUI\Libaray.BusinessObjects\bin\Debug\Libaray.BusinessObjects.dll
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\Library.WinUI\Libaray.BusinessObjects\bin\Debug\Libaray.BusinessObjects.pdb
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\Library.WinUI\Libaray.BusinessObjects\obj\Debug\Libaray.BusinessObjects.dll
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\Library.WinUI\Libaray.BusinessObjects\obj\Debug\Libaray.BusinessObjects.pdb
