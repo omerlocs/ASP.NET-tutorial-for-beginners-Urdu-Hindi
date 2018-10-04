@@ -1,0 +1,38 @@
+﻿@using Libaray.BusinessObjects
+@model Books
+@{
+    ViewBag.Title = "List of Books Book";
+    Layout = @"~\Views\Shared\_LayoutReports.cshtml";
+}
+
+<h2>List of Books</h2>
+<hr />
+<div class="row">
+    <div class="col-md-10">
+
+
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Book Code.</th>
+                    <th>Title of Book</th>
+                    <th>Writer</th>
+                    <th>Publishers</th>
+                   
+                </tr>
+
+            </thead>
+            @foreach (var item in Model.BookList)
+            {
+                <tr>
+                    <td>@item.Code</td>
+                    <td>@item.Title</td>
+                    <td>@item.Author</td>
+                    <td>@item.Publisher</td>
+                   </tr>
+            }
+        </table>
+
+
+    </div>
+</div>
