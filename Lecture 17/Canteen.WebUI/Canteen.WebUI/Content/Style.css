@@ -1,0 +1,14 @@
+﻿ div#header {
+            height: 25px;
+            border: red solid 1px;
+        }
+
+        div#content {
+            height: auto;
+            border: green solid 1px;
+        }
+
+        div#footer {
+            height: 10px;
+            border: red solid 1px;
+        }
