@@ -1,0 +1,67 @@
+﻿@using Libaray.BusinessObjects
+@model Books
+@{
+    ViewBag.Title = "Book";
+    Layout = @"~\Views\Shared\_Layout.cshtml";
+}
+
+<h2>Create / Change Books</h2>
+<hr />
+<div class="row">
+    <div class="col-md-2">
+
+        @using (Html.BeginForm("Book", "Library", FormMethod.Post))
+        {
+            <div class="form-group">
+                @Html.LabelFor(m => m.Code, new { @class = "form-label" })
+                @Html.TextBoxFor(m => m.Code, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Title, new { @class = "form-label" })
+                @Html.TextBoxFor(m => m.Title, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Author, new { @class = "form-label" })
+                @Html.TextBoxFor(m => m.Author, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Publisher, new { @class = "form-label" })
+                @Html.TextBoxFor(m => m.Publisher, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <button id="btnSave" class="btn" value="btnSave">Save Books</button>
+            </div>
+
+
+        }
+    </div>
+    <div class="col-md-4">
+        @using(Html.BeginForm("ChangeBook","Library",FormMethod.Post))
+        {
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>Book Code.</th>
+                        <th>Title of Book</th>
+                        <th>Writer</th>
+                        <th>Publishers</th>
+                        <th>Actions</th>
+                    </tr>
+                    
+                </thead>
+                @foreach (var item in Model.BookList)
+                {
+                <tr>
+                    <td>@item.Code</td>
+                    <td>@item.Title</td>
+                    <td>@item.Author</td>
+                    <td>@item.Publisher</td>
+                    <td>@Html.ActionLink("Delete","DeleteBook","Library",new{Code=@item.Code},new{@class="btn btn-primary"})&nbsp;@Html.ActionLink("Change","ChangeBook","Library", new{Code=@item.Code},new{@class="btn btn-success"})</td>
+                </tr>
+                }
+            </table>
+            
+        }
+    </div>
+</div>
+
