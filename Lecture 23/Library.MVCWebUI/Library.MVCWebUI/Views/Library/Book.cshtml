@@ -1,0 +1,22 @@
+﻿@using Library.MVCWebUI.Models
+@model Book
+@{
+    ViewBag.Title = "Book";
+}
+
+<h2>Create / Change Books</h2>
+<hr />
+
+@Html.LabelFor(m=>m.Code)
+@Html.TextBoxFor(m=>m.Code)
+<br/>
+@Html.LabelFor(m=>m.Title)
+@Html.TextBoxFor(m=>m.Title)
+<br/>
+@Html.LabelFor(m=>m.Author)
+@Html.TextBoxFor(m=>m.Author)
+<br/>
+@Html.LabelFor(m=>m.Publisher)
+@Html.TextBoxFor(m=>m.Publisher)
+<br/>
+<input type="button" class="btn" name="btnSave" value="Save Books" />
