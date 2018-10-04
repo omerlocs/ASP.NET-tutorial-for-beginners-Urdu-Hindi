@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="teacher.xslt"?>
+
+<Teachers
+xmlns="https://www.w3schools.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="teacher.xsd">
+	<Teacher>
+		<EmployeeCode>1</EmployeeCode>
+		<Name>Omer Aziz</Name>
+		<Salary>100K</Salary>
+		<Designation>Instructor for .NET</Designation>
+	</Teacher>
+	<Teacher>
+		<EmployeeCode>1</EmployeeCode>
+		<Name>Omer Aziz</Name>
+		<Salary>100K</Salary>
+		<Designation>Instructor for .NET</Designation>
+	</Teacher>
+	<Teacher>
+		<EmployeeCode>1</EmployeeCode>
+		<Name>Omer Aziz</Name>
+		<Salary>100K</Salary>
+		<Designation>Instructor for .NET</Designation>
+	</Teacher>
+	<Teacher>
+		<EmployeeCode>1</EmployeeCode>
+		<Name>Omer Aziz</Name>
+		<Salary>100K</Salary>
+		<Designation>Instructor for .NET</Designation>
+	</Teacher>
+</Teachers>

@@ -1,0 +1,24 @@
+Teacher {
+    background-color: #ffffff;
+    width: 100%;
+}
+EmployeeCode {
+    display: block;
+    margin-bottom: 30pt;
+    margin-left: 0;
+}
+Name {
+    display: block;
+    color: #ff0000;
+    font-size: 20pt;
+}
+Salary {
+    display: block;
+    color: #0000ff;
+    font-size: 20pt;
+}
+Designation {
+    display: block;
+    color: #000000;
+    margin-left: 20pt;
+}
