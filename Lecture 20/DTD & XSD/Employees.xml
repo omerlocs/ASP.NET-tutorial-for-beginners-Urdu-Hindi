@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/Asif/Desktop/employees.xsd">
+	<Employee>
+		<Code>1</Code>
+		<FirstName/>
+		<LastName/>
+		<Salary>34</Salary>
+		<Designation/>
+	</Employee>
+	<Employee>
+		<Code>2</Code>
+		<FirstName/>
+		<LastName/>
+		<Salary>33</Salary>
+		<Designation/>
+	</Employee>
+	<Employee>
+		<Code>3</Code>
+		<FirstName/>
+		<LastName/>
+		<Salary>44</Salary>
+		<Designation/>
+	</Employee>
+	<Employee>
+		<Code>4</Code>
+		<FirstName/>
+		<LastName/>
+		<Salary>55</Salary>
+		<Designation/>
+	</Employee>
+</Employees>

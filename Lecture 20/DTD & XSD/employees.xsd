@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="Employees">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Employee" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Code" type="xs:integer"></xs:element>
+							<xs:element name="FirstName" type="xs:string"></xs:element>
+							<xs:element name="LastName" type="xs:string"></xs:element>
+							<xs:element name="Salary" type="xs:double"></xs:element>
+							<xs:element name="Designation" type="xs:string"></xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
