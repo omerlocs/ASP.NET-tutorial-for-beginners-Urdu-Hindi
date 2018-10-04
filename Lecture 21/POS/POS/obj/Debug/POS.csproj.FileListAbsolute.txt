@@ -1,0 +1,6 @@
+c:\users\asif\documents\visual studio 2013\Projects\POS\POS\bin\POS.dll.config
+c:\users\asif\documents\visual studio 2013\Projects\POS\POS\bin\POS.dll
+c:\users\asif\documents\visual studio 2013\Projects\POS\POS\bin\POS.pdb
+c:\users\asif\documents\visual studio 2013\Projects\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+c:\users\asif\documents\visual studio 2013\Projects\POS\POS\obj\Debug\POS.dll
+c:\users\asif\documents\visual studio 2013\Projects\POS\POS\obj\Debug\POS.pdb
