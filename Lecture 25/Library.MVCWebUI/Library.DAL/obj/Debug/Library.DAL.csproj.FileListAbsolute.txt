@@ -1,0 +1,14 @@
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\Library.WinUI\Library.DAL\bin\Debug\Library.DAL.dll
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\Library.WinUI\Library.DAL\bin\Debug\Library.DAL.pdb
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\Library.WinUI\Library.DAL\bin\Debug\Libaray.BusinessObjects.dll
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\Library.WinUI\Library.DAL\bin\Debug\Libaray.BusinessObjects.pdb
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\Library.WinUI\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\Library.WinUI\Library.DAL\obj\Debug\Library.DAL.dll
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\Library.WinUI\Library.DAL\obj\Debug\Library.DAL.pdb
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\Library.MVCWebUI\Library.DAL\bin\Debug\Library.DAL.dll
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\Library.MVCWebUI\Library.DAL\bin\Debug\Library.DAL.pdb
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\Library.MVCWebUI\Library.DAL\bin\Debug\Libaray.BusinessObjects.dll
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\Library.MVCWebUI\Library.DAL\bin\Debug\Libaray.BusinessObjects.pdb
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\Library.MVCWebUI\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\Library.MVCWebUI\Library.DAL\obj\Debug\Library.DAL.dll
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\Library.MVCWebUI\Library.DAL\obj\Debug\Library.DAL.pdb
